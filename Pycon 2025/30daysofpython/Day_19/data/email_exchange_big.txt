@@ -1,0 +1,34 @@
+From: john.doe@example.com
+To: marketing@company.org, sales@company.org
+Subject: Product Launch Update
+
+Hi Team,
+
+We have finalized the launch date. Please coordinate with jane.smith@company.org and the design team at design@creatives.com for final materials.  
+
+Thanks,  
+John
+
+---
+
+From: recruiter@hiringjobs.com
+To: applicant@domain.com
+Subject: Job Application Received
+
+Dear Applicant,  
+We have received your application. For further questions, email hr@hiringjobs.com.  
+
+Best Regards,  
+Recruiter
+
+---
+
+From: newsletter@techupdates.io
+To: subscriber1@domain.net, subscriber2@domain.net
+Subject: Your Weekly Tech Update
+
+Hello,  
+Don’t forget to check our new blog post at blog@techupdates.io and give feedback to editor@techupdates.io.  
+
+Cheers,  
+Tech Updates Team
